@@ -2,7 +2,7 @@
 
 A desktop app that uses machine learning to predict which basketball position (guard, forward, or center) fits a player best, based on their season stats.
 
-![HoopFit app](images/app.png)
+![HoopFit app](hoopfit/images/app.png)
 
 ## Why
 I wanted to see whether a player's performance stats could tell an objective story about their role on the court: does this player *play* like a guard, a forward, or a center?
